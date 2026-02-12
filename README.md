@@ -52,10 +52,10 @@ Design Steps
 ![simulation](assets/layout.png)
 
 ## Performance Summary
-• Supply Voltage (VDD): 1.8V
-• Rise/Fall Time: 100ps
-• Time period: 10ns
-• Static Power: Very Low
-• Technology: CMOS
+- • Supply Voltage (VDD): 1.8V
+- • Rise/Fall Time: 100ps
+- • Time period: 10ns
+- • Static Power: Very Low
+- • Technology: CMOS
 
 ## Conclusion: The logic circuit was successfully simulated and functionally verified. All basic gates AND, OR, NAND, NOR, NOT, XOR, and XNOR produced outputs consistent with the expected truth tables, confirming the functional behaviour and reliable operation of the circuit.
